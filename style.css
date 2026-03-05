@@ -1,0 +1,21 @@
+body {
+
+font-family: Arial;
+margin: 40px;
+line-height: 1.6;
+
+}
+
+header {
+
+margin-bottom: 50px;
+
+}
+
+.project {
+
+border: 1px solid #ddd;
+padding: 20px;
+margin-bottom: 20px;
+
+}
