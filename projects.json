@@ -1,0 +1,21 @@
+[
+{
+"id": "highway-safety",
+"title": "Highway Safety Awareness App",
+"goal": "Interactive web app explaining highway safety rules.",
+"approach": "Prompt-driven development using AI-assisted code generation with manual refinement.",
+"stack": ["HTML","CSS","JavaScript"],
+"demo": "#",
+"source": "#"
+},
+
+{
+"id": "ai-workflow",
+"title": "AI Assisted Development Workflow",
+"goal": "Experiment documenting prompt-driven web development workflows.",
+"approach": "Structured prompts used to generate and refine web applications.",
+"stack": ["AI Studio","GitHub","Vercel"],
+"demo": "#",
+"source": "#"
+}
+]
